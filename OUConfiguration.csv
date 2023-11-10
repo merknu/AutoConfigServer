@@ -1,0 +1,5 @@
+OUName,ParentPath,GPOName,WorkFoldersURL,ForceAutomaticSetup,LockScreenImagePath,CompanyName,SecurityGroupName,Description,Roles,Policy,WorkFolders,OUPath
+PrimeAS,DC=prime,DC=local,PrimeFellesGPO,\PRIME-SRV-01\Felles,Enabled,\PRIME-SRV-01\Felles\user.png,Prime AS,,,,
+Ansatte,OU=PrimeAS,DC=prime,DC=local,None,,,,SG-Ansatte,,,,
+Gjest,OU=PrimeAS,DC=prime,DC=local,None,,,,SG-Gjest,,,,
+Resurser,OU=PrimeAS,DC=prime,DC=local,None,,,,SG-Resurser,,,,

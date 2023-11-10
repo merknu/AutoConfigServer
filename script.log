@@ -1,0 +1,316 @@
+2023-10-18 15:09:16 - OU PrimeAS already exists under DC=prime,DC=local
+2023-10-18 15:09:16 - OU Ansatte already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Gjest already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Resurser	 already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Administrasjon already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU IT	 already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Ledelse already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Medarbeider already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - OU Regnskap already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:09:16 - An error occurred: An empty SearchBase is only supported while connected to a GlobalCatalog.
+2023-10-18 15:22:53 - OU PrimeAS already exists under DC=prime,DC=local
+2023-10-18 15:22:53 - OU Ansatte already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Gjest already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Resurser	 already exists under OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Administrasjon already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU IT	 already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Ledelse already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Medarbeider already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - OU Regnskap already exists under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-18 15:22:53 - An error occurred: An empty SearchBase is only supported while connected to a GlobalCatalog.
+2023-10-19 09:47:34 - OU CSV file not found. Exiting.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - OUPath does not exist: . Skipping row.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - OUPath does not exist: Sterkt passord. Skipping row.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:04:30 - OUPath does not exist: Sterkt passord. Skipping row.
+2023-10-19 10:04:30 - OUPath does not exist: . Skipping row.
+2023-10-19 10:52:02 - Starting to process row: 1
+2023-10-19 10:52:02 - Waiting for user confirmation...
+2023-10-19 10:52:11 - Received user confirmation: a
+2023-10-19 10:52:11 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:11 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row.
+2023-10-19 10:52:11 - Starting to process row: 2
+2023-10-19 10:52:11 - Waiting for user confirmation...
+2023-10-19 10:52:14 - Received user confirmation: a
+2023-10-19 10:52:14 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:14 - Finished processing row: 2
+2023-10-19 10:52:14 - Starting to process row: 3
+2023-10-19 10:52:14 - Waiting for user confirmation...
+2023-10-19 10:52:15 - Received user confirmation: a
+2023-10-19 10:52:15 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:15 - Finished processing row: 3
+2023-10-19 10:52:15 - Starting to process row: 4
+2023-10-19 10:52:15 - Waiting for user confirmation...
+2023-10-19 10:52:17 - Received user confirmation: a
+2023-10-19 10:52:17 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:17 - Finished processing row: 4
+2023-10-19 10:52:17 - Starting to process row: 5
+2023-10-19 10:52:17 - Waiting for user confirmation...
+2023-10-19 10:52:18 - Received user confirmation: a
+2023-10-19 10:52:18 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:18 - Finished processing row: 5
+2023-10-19 10:52:18 - Starting to process row: 6
+2023-10-19 10:52:18 - Waiting for user confirmation...
+2023-10-19 10:52:23 - Received user confirmation: a
+2023-10-19 10:52:23 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:23 - Finished processing row: 6
+2023-10-19 10:52:23 - Starting to process row: 7
+2023-10-19 10:52:23 - Waiting for user confirmation...
+2023-10-19 10:52:24 - Received user confirmation: a
+2023-10-19 10:52:24 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:24 - OUPath does not exist: OU=Ledelse,OU=Ansatte. Skipping row.
+2023-10-19 10:52:24 - Starting to process row: 8
+2023-10-19 10:52:24 - Waiting for user confirmation...
+2023-10-19 10:52:25 - Received user confirmation: a
+2023-10-19 10:52:25 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:25 - Finished processing row: 8
+2023-10-19 10:52:25 - Starting to process row: 9
+2023-10-19 10:52:25 - Waiting for user confirmation...
+2023-10-19 10:52:26 - Received user confirmation: a
+2023-10-19 10:52:26 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:52:26 - OUPath does not exist: OU=Regnskap,OU=Ansatte. Skipping row.
+2023-10-19 10:52:26 - Starting to process row: 10
+2023-10-19 10:52:26 - OUPath does not exist: OU=,. Skipping row.
+2023-10-19 10:56:00 - Starting to process row: 1
+2023-10-19 10:56:00 - Waiting for user confirmation...
+2023-10-19 10:56:04 - Received user confirmation: a
+2023-10-19 10:56:04 - Trying to search OU with Name: PrimeAS under SearchBase: DC=prime
+2023-10-19 10:56:04 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:04 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row.
+2023-10-19 10:56:04 - Starting to process row: 2
+2023-10-19 10:56:04 - Waiting for user confirmation...
+2023-10-19 10:56:05 - Received user confirmation: a
+2023-10-19 10:56:05 - Trying to search OU with Name: Ansatte under SearchBase: OU=PrimeAS
+2023-10-19 10:56:05 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:05 - Finished processing row: 2
+2023-10-19 10:56:05 - Starting to process row: 3
+2023-10-19 10:56:05 - Waiting for user confirmation...
+2023-10-19 10:56:06 - Received user confirmation: a
+2023-10-19 10:56:06 - Trying to search OU with Name: Gjest under SearchBase: OU=PrimeAS
+2023-10-19 10:56:06 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:06 - Finished processing row: 3
+2023-10-19 10:56:06 - Starting to process row: 4
+2023-10-19 10:56:06 - Waiting for user confirmation...
+2023-10-19 10:56:06 - Received user confirmation: a
+2023-10-19 10:56:06 - Trying to search OU with Name: Resurser	 under SearchBase: OU=PrimeAS
+2023-10-19 10:56:06 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:06 - Finished processing row: 4
+2023-10-19 10:56:06 - Starting to process row: 5
+2023-10-19 10:56:06 - Waiting for user confirmation...
+2023-10-19 10:56:07 - Received user confirmation: a
+2023-10-19 10:56:07 - Trying to search OU with Name: Administrasjon under SearchBase: OU=Ansatte
+2023-10-19 10:56:07 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:07 - Finished processing row: 5
+2023-10-19 10:56:07 - Starting to process row: 6
+2023-10-19 10:56:07 - Waiting for user confirmation...
+2023-10-19 10:56:07 - Received user confirmation: a
+2023-10-19 10:56:07 - Trying to search OU with Name: IT	 under SearchBase: OU=Ansatte
+2023-10-19 10:56:07 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:07 - Finished processing row: 6
+2023-10-19 10:56:07 - Starting to process row: 7
+2023-10-19 10:56:07 - Waiting for user confirmation...
+2023-10-19 10:56:08 - Received user confirmation: a
+2023-10-19 10:56:08 - Trying to search OU with Name: Ledelse under SearchBase: OU=Ansatte
+2023-10-19 10:56:08 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:08 - OUPath does not exist: OU=Ledelse,OU=Ansatte. Skipping row.
+2023-10-19 10:56:08 - Starting to process row: 8
+2023-10-19 10:56:08 - Waiting for user confirmation...
+2023-10-19 10:56:08 - Received user confirmation: a
+2023-10-19 10:56:08 - Trying to search OU with Name: Medarbeider under SearchBase: OU=Ansatte
+2023-10-19 10:56:08 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:08 - Finished processing row: 8
+2023-10-19 10:56:08 - Starting to process row: 9
+2023-10-19 10:56:08 - Waiting for user confirmation...
+2023-10-19 10:56:08 - Received user confirmation: a
+2023-10-19 10:56:08 - Trying to search OU with Name: Regnskap under SearchBase: OU=Ansatte
+2023-10-19 10:56:08 - An error occurred: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 10:56:08 - OUPath does not exist: OU=Regnskap,OU=Ansatte. Skipping row.
+2023-10-19 10:56:08 - Starting to process row: 10
+2023-10-19 10:56:08 - OUPath does not exist: OU=,. Skipping row.
+2023-10-19 11:01:52 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:52 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - OUPath does not exist: OU=Ledelse,OU=Ansatte. Skipping row.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: The supplied distinguishedName must belong to one of the following partition(s): 'DC=prime,DC=local , CN=Configuration,DC=prime,DC=local , CN=Schema,CN=Configuration,DC=prime,DC=local , DC=DomainDnsZones,DC=prime,DC=local , DC=ForestDnsZones,DC=prime,DC=local'.
+2023-10-19 11:01:53 - OUPath does not exist: OU=Regnskap,OU=Ansatte. Skipping row.
+2023-10-19 11:01:53 - An error occurred while trying to create OU: An empty SearchBase is only supported while connected to a GlobalCatalog.
+2023-10-19 11:01:53 - OUPath does not exist: OU=,. Skipping row.
+2023-10-19 11:36:13 - Starting row 1 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: DC=prime. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 2 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=PrimeAS. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 3 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=PrimeAS. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 4 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=PrimeAS. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 5 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=Ansatte. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Administrasjon,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 6 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=Ansatte. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=IT,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 7 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=Ansatte. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Ledelse,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 8 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=Ansatte. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Medarbeider,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 9 of 10
+2023-10-19 11:36:13 - ParentPath does not exist: OU=Ansatte. Skipping row.
+2023-10-19 11:36:13 - OUPath does not exist: OU=Regnskap,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Starting row 10 of 10
+2023-10-19 11:36:13 - An error occurred while trying to create OU: The search filter cannot be recognized
+2023-10-19 11:36:13 - OUPath does not exist: OU=,. Skipping row for Security Group creation.
+2023-10-19 11:36:13 - Script execution completed.
+2023-10-19 11:38:34 - Starting row 1 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'DC=prime' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 2 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 3 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 4 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 5 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=Ansatte' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Administrasjon,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 6 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=Ansatte' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=IT,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 7 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=Ansatte' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Ledelse,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 8 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=Ansatte' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Medarbeider,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 9 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=Ansatte' under: 'DC=prime,DC=local'.
+2023-10-19 11:38:34 - OUPath does not exist: OU=Regnskap,OU=Ansatte. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Starting row 10 of 10
+2023-10-19 11:38:34 - An error occurred while trying to create OU: Cannot validate argument on parameter 'Identity'. The Identity property on the argument is null or empty.
+2023-10-19 11:38:34 - OUPath does not exist: OU=,. Skipping row for Security Group creation.
+2023-10-19 11:38:34 - Script execution completed.
+2023-10-19 11:40:40 - Starting row 1 of 5
+2023-10-19 11:40:40 - An error occurred while trying to create OU: Cannot find an object with identity: 'DC=prime' under: 'DC=prime,DC=local'.
+2023-10-19 11:40:40 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 11:40:40 - Starting row 2 of 5
+2023-10-19 11:40:40 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:40:40 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:40:40 - Starting row 3 of 5
+2023-10-19 11:40:40 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:40:40 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:40:40 - Starting row 4 of 5
+2023-10-19 11:40:40 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:40:40 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:40:40 - Starting row 5 of 5
+2023-10-19 11:40:40 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:40:40 - OUPath does not exist: OU=...,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:40:40 - Script execution completed.
+2023-10-19 11:43:28 - Starting row 1 of 5
+2023-10-19 11:43:28 - An error occurred while trying to create OU: Cannot find an object with identity: 'DC=prime' under: 'DC=prime,DC=local'.
+2023-10-19 11:43:28 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 11:43:28 - Starting row 2 of 5
+2023-10-19 11:43:28 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:43:28 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:43:28 - Starting row 3 of 5
+2023-10-19 11:43:28 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:43:28 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:43:28 - Starting row 4 of 5
+2023-10-19 11:43:28 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:43:28 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:43:28 - Starting row 5 of 5
+2023-10-19 11:43:28 - An error occurred while trying to create OU: Cannot validate argument on parameter 'Identity'. The Identity property on the argument is null or empty.
+2023-10-19 11:43:28 - OUPath does not exist: OU=...,. Skipping row for Security Group creation.
+2023-10-19 11:43:28 - Script execution completed.
+2023-10-19 11:57:15 - Starting row 1 of 4
+2023-10-19 11:57:15 - An error occurred while trying to create OU: Cannot find an object with identity: 'DC=prime' under: 'DC=prime,DC=local'.
+2023-10-19 11:57:15 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 11:57:15 - Starting row 2 of 4
+2023-10-19 11:57:15 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:57:15 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:57:15 - Starting row 3 of 4
+2023-10-19 11:57:15 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:57:15 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:57:15 - Starting row 4 of 4
+2023-10-19 11:57:15 - An error occurred while trying to create OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 11:57:15 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 11:57:15 - Script execution completed.
+2023-10-19 12:11:56 - Starting row 1 of 4
+2023-10-19 12:11:56 - OU PrimeAS already exists with DN: OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:11:56 - OUPath does not exist: OU=PrimeAS,DC=prime. Skipping row for Security Group creation.
+2023-10-19 12:11:56 - Starting row 2 of 4
+2023-10-19 12:11:56 - OU Ansatte already exists with DN: OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:11:56 - OUPath does not exist: OU=Ansatte,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 12:11:56 - Starting row 3 of 4
+2023-10-19 12:11:56 - OU Gjest already exists with DN: OU=Gjest,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:11:56 - OUPath does not exist: OU=Gjest,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 12:11:56 - Starting row 4 of 4
+2023-10-19 12:11:56 - An error occurred while trying to create or find OU: Cannot find an object with identity: 'OU=PrimeAS' under: 'DC=prime,DC=local'.
+2023-10-19 12:11:56 - OUPath does not exist: OU=Resurser,OU=PrimeAS. Skipping row for Security Group creation.
+2023-10-19 12:11:56 - Script execution completed.
+2023-10-19 12:17:56 - Starting row 1 of 4
+2023-10-19 12:17:56 - OU PrimeAS already exists with DN: OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:17:56 - Starting row 2 of 4
+2023-10-19 12:17:56 - OU Ansatte already exists with DN: OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:17:56 - Starting row 3 of 4
+2023-10-19 12:17:56 - OU Gjest already exists with DN: OU=Gjest,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:17:56 - Starting row 4 of 4
+2023-10-19 12:17:56 - An error occurred while trying to create or find OU: No superior reference has been configured for the directory service. The directory service is therefore unable to issue referrals to objects outside this forest
+2023-10-19 12:17:56 - OU Resurser does not exist. Skipping row for Security Group creation.
+2023-10-19 12:17:56 - Script execution completed.
+2023-10-19 12:22:55 - Starting row 1 of 3
+2023-10-19 12:22:55 - OU  does not exist. Skipping row for Security Group creation.
+2023-10-19 12:22:55 - Starting row 2 of 3
+2023-10-19 12:22:55 - OU  does not exist. Skipping row for Security Group creation.
+2023-10-19 12:22:55 - Starting row 3 of 3
+2023-10-19 12:22:55 - OU  does not exist. Skipping row for Security Group creation.
+2023-10-19 12:22:55 - Script execution completed.
+2023-10-19 12:26:43 - Starting row 1 of 3
+2023-10-19 12:26:43 - OUName is empty or null. Skipping row.
+2023-10-19 12:26:43 - Starting row 2 of 3
+2023-10-19 12:26:43 - OUName is empty or null. Skipping row.
+2023-10-19 12:26:43 - Starting row 3 of 3
+2023-10-19 12:26:43 - OUName is empty or null. Skipping row.
+2023-10-19 12:26:43 - Script execution completed.
+2023-10-19 12:30:33 - Starting row 1 of 3
+2023-10-19 12:30:33 - OUName is empty or null. Skipping row.
+2023-10-19 12:30:33 - Starting row 2 of 3
+2023-10-19 12:30:33 - OUName is empty or null. Skipping row.
+2023-10-19 12:30:33 - Starting row 3 of 3
+2023-10-19 12:30:33 - OUName is empty or null. Skipping row.
+2023-10-19 12:30:33 - Script execution completed.
+2023-10-19 12:31:31 - Starting row 1 of 3
+2023-10-19 12:31:31 - OUName is empty or null. Skipping row.
+2023-10-19 12:31:31 - Starting row 2 of 3
+2023-10-19 12:31:31 - OUName is empty or null. Skipping row.
+2023-10-19 12:31:31 - Starting row 3 of 3
+2023-10-19 12:31:31 - OUName is empty or null. Skipping row.
+2023-10-19 12:31:31 - Script execution completed.
+2023-10-19 12:35:29 - Starting row 1 of 4
+2023-10-19 12:35:29 - Created Security Group: Prime AS under OU=PrimeAS,DC=prime,DC=local
+2023-10-19 12:35:29 - Starting row 2 of 4
+2023-10-19 12:35:29 - Starting row 3 of 4
+2023-10-19 12:35:29 - Starting row 4 of 4
+2023-10-19 12:35:29 - OU Resurser does not exist. Skipping row for Security Group creation.
+2023-10-19 12:35:29 - Script execution completed.

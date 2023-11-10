@@ -1,0 +1,18 @@
+2023-10-19 09:50:21 - OU CSV file not found. Exiting.
+2023-10-19 09:50:23 - OU CSV file not found. Exiting.
+2023-10-19 09:50:24 - OU CSV file not found. Exiting.
+2023-10-19 09:53:21 - Created OU: PrimeAS under DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Ansatte under OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Gjest under OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Resurser	 under OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Administrasjon under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: IT	 under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Ledelse under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Medarbeider under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU: Regnskap under OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+2023-10-19 09:53:21 - Created OU:  under 
+2023-10-19 09:53:21 - OUPath does not exist: Arbeidsmapper/Kurs – Deltaker. Skipping row.
+2023-10-19 09:53:21 - OUPath does not exist: OU=Ledelse. Skipping row.
+2023-10-19 09:53:21 - OUPath does not exist: OU=Regnskap. Skipping row.
+2023-10-19 09:53:21 - OUPath does not exist: OU=Medarbeider. Skipping row.
+2023-10-19 09:53:21 - SecurityGroupName or OUPath is empty. Skipping row.
