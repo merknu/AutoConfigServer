@@ -1,0 +1,2 @@
+"ServerName","IPAddress","SubnetMask","Gateway","DNSServers","DomainName","IPEnd","InterfaceAlias"
+"Prime-Srv-01","192.168.50.2","24","192.168.50.1","8.8.8.8;8.8.4.4","prime.local","5",""

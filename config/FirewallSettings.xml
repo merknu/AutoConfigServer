@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirewallSettings>
+    <InboundRules>
+        <Rule>
+            <Name>AllowHTTP</Name>
+            <Port>80</Port>
+            <Action>Allow</Action>
+        </Rule>
+        <Rule>
+            <Name>AllowHTTPS</Name>
+            <Port>443</Port>
+            <Action>Allow</Action>
+        </Rule>
+    </InboundRules>
+    <OutboundRules>
+        <!-- Similar structure -->
+    </OutboundRules>
+</FirewallSettings>

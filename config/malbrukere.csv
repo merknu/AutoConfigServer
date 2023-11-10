@@ -1,0 +1,16 @@
+OUName;ParentPath;TemplateUser;SecurityGroups
+PrimeAS;DC=prime,DC=local;;
+Ansatte;OU=PrimeAS,DC=prime,DC=local;Ola Normann;AnsattGruppe
+Ansatte;OU=PrimeAS,DC=prime,DC=local;Erik Solbakken;AnsattGruppe
+Gjest;OU=PrimeAS,DC=prime,DC=local;Kari Nordmann;GjestGruppe
+Resurser;OU=PrimeAS,DC=prime,DC=local;;
+Administrasjon;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Erik Solbakken;AdminGruppe
+IT;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Anne Berge;ITGruppe
+Ledelse;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Jan Johansen;LedelseGruppe
+Medarbeider;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Sara Nilsen;MedarbeiderGruppe
+Regnskap;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Lisa Hansen;RegnskapGruppe
+Markedsføring;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Maria Olsen;MarkedsføringGruppe
+Kundeservice;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Per Andersen;KundeserviceGruppe
+Salg;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Linda Johansen;SalgGruppe
+HR;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Tom Erikson;HRGruppe
+Drift;OU=Ansatte,OU=PrimeAS,DC=prime,DC=local;Siv Jensen;DriftGruppe

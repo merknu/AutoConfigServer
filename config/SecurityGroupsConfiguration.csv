@@ -1,0 +1,6 @@
+SecurityGroupName,Description,Roles,Policy,WorkFolders,OUPath
+IT-Administrator,Ansvarlig for å utføre driftsrutiner,MFA, Sterkt passord, ingen ekstern tilgang,Arbeidsmapper/Kurs – Deltaker,OU=IT,OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+Ledelse,Har tilgang til alle nødvendige ressurser,Sterkt passord,  ekstern tilgang,Arbeidsmapper/Ledelse,OU=Ledelse,OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+Regnskap,Hovedsakelig for regnskapsførere,Sterkt passord, ingen ekstern tilgang,Arbeidsmapper/Regnskap,OU=Regnskap,OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+Deltaker,Deltakere og Lærere,Grunnleggende passord,,Arbeidsmapper/Kurs – Deltaker,OU=Medarbeider,OU=Ansatte,OU=PrimeAS,DC=prime,DC=local
+Gjest,For midlertidige brukere,Tidsbegrenset tilgang,,,

@@ -1,0 +1,3 @@
+ScopeName,StartRange,EndRange,SubnetMask
+Scope1,192.168.1.10,192.168.1.50,255.255.255.0
+Scope2,192.168.2.10,192.168.2.50,255.255.255.0

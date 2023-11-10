@@ -1,0 +1,4 @@
+PolicyName,LinkedOU,Description,SettingsFile
+PasswordPolicy,"OU=Users,DC=prime,DC=local",Enforces strong passwords,PasswordPolicy.xml
+FirewallSettings,"OU=Computers,DC=prime,DC=local",Configures firewall settings,FirewallSettings.xml
+RemoteDesktop,"OU=Admins,DC=prime,DC=local",Enables remote desktop,RemoteDesktop.xml

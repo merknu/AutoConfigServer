@@ -1,0 +1,5 @@
+ZoneName;RecordType;HostName;IPAddress;TargetHost
+prime.local;A;www;192.168.1.2;
+prime.local;CNAME;docs;www;
+prime.local;A;mail;192.168.1.3;
+prime.local;CNAME;webmail;mail;

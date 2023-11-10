@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkFoldersSettings>
+    <!-- For PrimeAS -->
+    <SyncShare Condition="OU=PrimeAS">\\PRIME-SRV-01\Felles</SyncShare>
+    <!-- For Regnskap -->
+    <SyncShare Condition="OU=Regnskap">\\PRIME-SRV-01\Regnskap</SyncShare>
+    <!-- For Ledelse -->
+    <SyncShare Condition="OU=Ledelse">\\PRIME-SRV-01\Ledelse</SyncShare>
+    <UserEmail>{useremail}</UserEmail>
+    <AutomaticSync>Enabled</AutomaticSync>
+    <!-- Full Control: Red -->
+    <FileSync Condition="Role=IT-Administrator">Enabled</FileSync>
+    <!-- Read Only: Green -->
+    <FileSync Condition="Role=Ledelse">Disabled</FileSync>
+</WorkFoldersSettings>
