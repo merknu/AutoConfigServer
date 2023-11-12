@@ -4,11 +4,11 @@
 AutoConfigServer automates Windows Server 2022 setup using PowerShell, XML, and CSV.
 
 ## Features
-- Active Directory setup.
-- Network configuration (DNS, DHCP).
-- Group Policy and Security Group management.
-- User account automation.
-- File synchronization with Work Folders.
+- **Active Directory Setup**: Streamlines Active Directory deployment and management.
+- **Network Configuration**: Automates network settings including DNS and DHCP.
+- **Group Policy Management**: Simplifies creation and application of Group Policy Objects.
+- **User Account Management**: Facilitates user account creation and configuration.
+- **File Synchronization**: Sets up Work Folders for network file sharing.
 
 ## Status
 :warning: In Development - some features are not fully functional.
@@ -32,7 +32,8 @@ OrganizationalUnitsSetup.ps1: Establishes Organizational Units in Active Directo
 SecurityGroupsSetup.ps1: Manages security group configurations.
 TemplateUsersSetup.ps1: Automates user account creation.
 WorkFoldersSetup.ps1: Sets up Work Folders for file synchronization.
-Configuration Files:
+
+# Configuration Files:
 
 CSV Files: Configure various aspects like DHCP, DNS, GPOs, security groups, and user account templates.
 XML Files: Include settings for Firewall and Work Folders, as well as Password Policies.
